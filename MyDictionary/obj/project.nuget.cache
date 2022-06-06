@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "kuuQGJ93CQSKd0Gvy5Onv1srTA1Cb/GRKqMWNmRs5+GdtHsRoTUbITNg8MawXH7SywTUQ+QXVMUAoC4z7d1GYQ==",
+  "success": true,
+  "projectFilePath": "D:\\Calisma\\c_charp\\kodlama.io\\Projects\\MyDictionary\\MyDictionary\\MyDictionary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\atacano\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

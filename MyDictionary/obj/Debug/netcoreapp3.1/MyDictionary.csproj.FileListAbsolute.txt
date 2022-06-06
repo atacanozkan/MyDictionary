@@ -1,0 +1,13 @@
+D:\Calisma\c_charp\kodlama.io\Projects\MyDictionary\MyDictionary\bin\Debug\netcoreapp3.1\MyDictionary.exe
+D:\Calisma\c_charp\kodlama.io\Projects\MyDictionary\MyDictionary\bin\Debug\netcoreapp3.1\MyDictionary.deps.json
+D:\Calisma\c_charp\kodlama.io\Projects\MyDictionary\MyDictionary\bin\Debug\netcoreapp3.1\MyDictionary.runtimeconfig.json
+D:\Calisma\c_charp\kodlama.io\Projects\MyDictionary\MyDictionary\bin\Debug\netcoreapp3.1\MyDictionary.runtimeconfig.dev.json
+D:\Calisma\c_charp\kodlama.io\Projects\MyDictionary\MyDictionary\bin\Debug\netcoreapp3.1\MyDictionary.dll
+D:\Calisma\c_charp\kodlama.io\Projects\MyDictionary\MyDictionary\bin\Debug\netcoreapp3.1\MyDictionary.pdb
+D:\Calisma\c_charp\kodlama.io\Projects\MyDictionary\MyDictionary\obj\Debug\netcoreapp3.1\MyDictionary.csprojAssemblyReference.cache
+D:\Calisma\c_charp\kodlama.io\Projects\MyDictionary\MyDictionary\obj\Debug\netcoreapp3.1\MyDictionary.AssemblyInfoInputs.cache
+D:\Calisma\c_charp\kodlama.io\Projects\MyDictionary\MyDictionary\obj\Debug\netcoreapp3.1\MyDictionary.AssemblyInfo.cs
+D:\Calisma\c_charp\kodlama.io\Projects\MyDictionary\MyDictionary\obj\Debug\netcoreapp3.1\MyDictionary.csproj.CoreCompileInputs.cache
+D:\Calisma\c_charp\kodlama.io\Projects\MyDictionary\MyDictionary\obj\Debug\netcoreapp3.1\MyDictionary.dll
+D:\Calisma\c_charp\kodlama.io\Projects\MyDictionary\MyDictionary\obj\Debug\netcoreapp3.1\MyDictionary.pdb
+D:\Calisma\c_charp\kodlama.io\Projects\MyDictionary\MyDictionary\obj\Debug\netcoreapp3.1\MyDictionary.genruntimeconfig.cache
